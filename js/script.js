@@ -17,3 +17,25 @@
       $("#prod-show").toggle();
     });
   });
+
+  var name = document.getElementById("name").value;
+  var email = document.getElementById("email").value;
+  var comment = document.getElementById("comment").value;
+
+  
+
+
+
+
+
+
+
+
+  $(document).ready(function(){
+    $(".icons2").mouseover(function(){
+      $(".work3").css("background-color", "yellow");
+    });
+    $(".work3").mouseout(function(){
+      $(".work3").css("background-color", "transparent");
+    });
+  });

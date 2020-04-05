@@ -62,7 +62,7 @@ h1,h2,h3{
   background-color: transparent;
   color: white;
 }
-#pass{
+#name{
   border-radius: 0%;
   background-color: transparent;
   color: white;
@@ -97,4 +97,7 @@ h1,h2,h3{
  }
  #prod-hide{
   display: none;
+ }
+ .work3{
+   opacity: 10%;
  }
