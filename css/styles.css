@@ -20,12 +20,14 @@
   color: white;
 }
 .icons{
- display: inline-block;
- font-size: small;
- padding: 25px;
- margin-left: 11%;
- margin-right: 8%;
- text-align: center;
+  margin: 5px;
+  padding-top: 3%;
+  float: left;
+  width: 400px;
+  padding-left: 1%;
+  text-align: center;
+  padding-bottom: 3%;
+  border: 1px solid ;
 }
 .icons2{
   float: left;
@@ -88,10 +90,14 @@ h1,h2,h3{
    padding-top: 9%;
    text-align: center;
  }
- .design-hide{
-   text-align: center;
-   display: none;
-   padding-left: 0mm;
-   background-color: tomato;
-   float: left;
+ #design-hide{
+  text-align: center;
+  display: none;
+  padding-top: 3%;
+  float: left;
+  width: 400px;
+  padding-left: 1%;
+  text-align: center;
+  padding-bottom: 3%;
+  border: 1px solid ;
  }
