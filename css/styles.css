@@ -24,7 +24,6 @@
   padding-top: 3%;
   float: left;
   width: 400px;
-  padding-left: 11%;
   text-align: center;
   padding-bottom: 3%;
 }
@@ -35,7 +34,7 @@
  }
  #icons{
   
-  padding-left: 1%;
+  padding-left: 15px;
   
  }
 h1,h2,h3{
