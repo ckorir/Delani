@@ -24,7 +24,7 @@
   padding-top: 3%;
   float: left;
   width: 400px;
-  padding-left: 1%;
+  padding-left: 11%;
   text-align: center;
   padding-bottom: 3%;
 }
@@ -89,17 +89,10 @@ h1,h2,h3{
    padding-top: 9%;
    text-align: center;
  }
- #design-hide{
-  text-align: center;
-  display: none;
-  padding-top: 3%;
-  float: left;
-  width: 400px;
-  padding-left: 1%;
-  text-align: center;
-  padding-bottom: 3%;
-  border: 1px solid ;
- }
+
  #dev-hide{
+  display: none;
+ }
+ #design-hide{
   display: none;
  }
