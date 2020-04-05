@@ -4,9 +4,95 @@
   color: white;
   padding-top: 14%;
 }
-#text{
+.text{
   text-align: center;
   padding-top: 5%;
+  padding-bottom: 5%;
   padding-left: 10%;
   padding-right: 10%;
 }
+.text2{
+  text-align: center;
+  padding-top: 9%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  color: white;
+}
+.icons{
+ display: inline-block;
+ font-size: small;
+ float: left;
+ padding: 25px;
+ margin-left: 11%;
+ margin-right: 8%;
+ text-align: center;
+}
+.icons2{
+  float: left;
+  padding-left: 15px;
+  padding-bottom: 40px;
+ }
+ #icons{
+  
+  padding-left: 1%;
+  
+ }
+h1,h2,h3{
+  text-align: center;
+}
+.text3{
+  padding-top: 4%;
+  padding-bottom: 8%;
+}
+.container{
+  padding-left: 5%;
+  
+}
+.text4{
+  padding-top: 2%;
+  padding-bottom: 8%;
+  color: white;
+}
+.form-group{
+  padding-top: 3%;
+  color: white;
+}
+#email{
+  border-radius: 0%;
+  background-color: transparent;
+  color: white;
+}
+#pass{
+  border-radius: 0%;
+  background-color: transparent;
+  color: white;
+}
+#comment{
+  border-radius: 0%;
+  background-color: transparent;
+  color: white;
+  padding: 7%;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.icons3{
+  float: left;
+  padding-top: 3%;
+  padding-bottom: 40px;
+  padding-right: 20px;
+ }
+ #icons3{
+   padding-left: 27%;
+ }
+ footer{
+   padding-top: 9%;
+   text-align: center;
+ }
+ .design-hide{
+   text-align: center;
+   display: none;
+   padding-left: 0mm;
+   background-color: tomato;
+   float: left;
+ }
