@@ -40,7 +40,7 @@
       <h6>AMAIZING PEOPLE ARE MAKING AMAIZING DESIGNS IN AN AMAIZING WAY</h6>
      <img src="img/mouse_click.png" style="padding-top: 9%;"></img>
     </div>
-    <div class ="text">
+    <div class ="text1">
       <h2><strong> ABOUT US</strong></h2>
       <p><h5>When you work with us you are part of a team of committed collaborators.All aspects of our software development process are intergrated,interactive and agile.</h5></p>
       <p><h5>Our approach unifies design,development and product management to create exceptional products.</h5></p>
@@ -102,29 +102,53 @@
     </div>
     <h2><strong>PORTFOLIO</strong></h2>
     <div class="container" style="padding-bottom: 38%;">
-      <div class = "icons2" > 
-        <img src="img/work4.jpg" style="width: 230px;"></img> 
+      <div class = "icons2" id ="work4"> 
+        <img src="img/work4.jpg" style="width: 230px;"></img>
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div>
       </div>
       <div class = "icons2" id ="work3"> 
-        <img src="img/work3.jpg" style="width: 230px;"></img> 
+        <img src="img/work3.jpg" style="width: 230px;"></img>
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div> 
       </div>
-      <div class = "icons2"> 
+      <div class = "icons2" id ="work2"> 
         <img src="img/work2.jpg" style="width: 230px;"></img> 
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div>
       </div>
-      <div class = "icons2"> 
+      <div class = "icons2" id ="work1"> 
         <img src="img/work1.jpg" style="width: 230px;"></img> 
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div>
       </div>
-      <div class = "icons2"> 
-        <img src="img/work5.jpg" style="width: 230px;"></img> 
+      <div class = "icons2" id ="work5"> 
+        <img src="img/work5.jpg" style="width: 230px;"></img>
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div>
       </div>
-      <div class = "icons2"> 
+      <div class = "icons2" id ="work6"> 
         <img src="img/work6.jpg" style="width: 230px;"></img> 
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div>
       </div>
-      <div class = "icons2"> 
+      <div class = "icons2" id ="work7"> 
         <img src="img/work7.jpg" style="width: 230px;"></img> 
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div>
       </div>
-      <div class = "icons2"> 
+      <div class = "icons2" id ="work8"> 
         <img src="img/work8.jpg" style="width: 230px;"></img> 
+        <div class="middle">
+          <div class="text">John Doe</div>
+        </div>
       </div>
     </div>
     <div class="bg-img3">
@@ -139,7 +163,7 @@
               <input type="email" class="form-control" placeholder="Email..." id="email" name="email">
             </div>
           </div>
-          <form action="/action_page.php">
+          <form action="/action_page.php" onsubmit="return submitForm();">
             <div class="form-group">
               <textarea class="form-control" rows="5" id="comment" name="text" placeholder="Your message here..."></textarea>
             </div>

@@ -22,20 +22,9 @@
   var email = document.getElementById("email").value;
   var comment = document.getElementById("comment").value;
 
-  
-
-
-
-
-
-
-
 
   $(document).ready(function(){
-    $(".icons2").mouseover(function(){
-      $(".work3").css("background-color", "yellow");
-    });
-    $(".work3").mouseout(function(){
-      $(".work3").css("background-color", "transparent");
-    });
+  $("div.icons").mouseenter(function(){
+    $(".icons").text(y += 1);
   });
+});
