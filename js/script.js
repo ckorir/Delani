@@ -26,8 +26,6 @@
   if(name === '' || email === '' || comment === ''){
     alert("You havent entered any message");
   }
-  else(
-    
-  )
+ 
   event.preventDefault();
 }
