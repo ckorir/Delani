@@ -101,13 +101,13 @@ h1,h2,h3{
  
 
 .middle {
-  transition: .5s ease;
+  transition: .4s ease;
   opacity: 0;
   position: absolute;
   transform: translate(-10%, -200%);
   -ms-transform: translate(-10%, -100%);
   text-align: center;
- 
+  
 }
 
 #work1:hover {
@@ -137,7 +137,7 @@ h1,h2,h3{
 }
 
 #work4:hover {
-  opacity: 0.55;
+  opacity: 0.65;
 }
 
 #work4:hover .middle {
@@ -169,20 +169,39 @@ h1,h2,h3{
 }
 
 #work8:hover {
-  opacity: 0.55;
-  
+  opacity: 0.65;
 }
 
 #work8:hover .middle {
-  opacity: 1;
+    opacity:1;
   
 }
 
 .text {
-  color: greenyellow;
+  color: white;
   padding: 16px 32px;
   font-weight: 600;
   text-align: center;
   font-size: 30px;
+  font: smaller;
 }
+.textt {
+  color: black;
+  padding: 29px 32px;
+  font-weight: 600;
+  text-align: center;
+  font-size: 30px;
+  opacity: 1;
+}
+.textt2 {
+  color:white;
+  padding: 29px 32px;
+  font-weight: 600;
+  text-align: center;
+  font-size: 30px;
+  opacity: 1;
+}
+.h6{
+  font-weight: bolder;
 
+}
