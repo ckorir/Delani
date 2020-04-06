@@ -203,5 +203,12 @@ h1,h2,h3{
 }
 .h6{
   font-weight: bolder;
+}
+#button{
+background-color: transparent;
+margin: 5px;
+border: thin solid rgba(255, 255, 255, 0.856);
+margin-left: unset;
+color: rgba(255, 250, 250, 0.781);
 
 }

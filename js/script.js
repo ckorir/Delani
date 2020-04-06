@@ -18,13 +18,16 @@
     });
   });
 
+  function save(){
   var name = document.getElementById("name").value;
   var email = document.getElementById("email").value;
   var comment = document.getElementById("comment").value;
 
-
-  $(document).ready(function(){
-  $("div.icons").mouseenter(function(){
-    $(".icons").text(y += 1);
-  });
-});
+  if(name === '' || email === '' || comment === ''){
+    alert("You havent entered any message");
+  }
+  else(
+    
+  )
+  event.preventDefault();
+}
