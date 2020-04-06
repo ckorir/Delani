@@ -26,6 +26,10 @@
   if(name === '' || email === '' || comment === ''){
     alert("You havent entered any message");
   }
- 
+
+  else{
+    Swal.fire('Any fool can use a computer')
+      }
+  
   event.preventDefault();
 }
