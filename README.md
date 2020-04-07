@@ -15,4 +15,9 @@ For you to start up you require:
 - Core i5
 
 ## Live link to webpage
+You can use this link to access the website:
+https://ckorir.github.io/Delani/
 
+## Contact Details
+Email:
+chrisruto@gmail.com
