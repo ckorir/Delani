@@ -22,3 +22,8 @@ https://ckorir.github.io/Delani/
 Email:
 chrisruto.k@gmail.com
 
+## License
+You can get the license here:
+https://github.com/ckorir/Delani/blob/master/LICENSE
+
+Copyright (c) {2020} Korir
