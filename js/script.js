@@ -24,7 +24,7 @@
   var comment = document.getElementById("comment").value;
 
   if(name === '' || email === '' || comment === ''){
-    alert("You havent entered any message");
+    alert("You haven't entered any message");
   }
 
   else{
