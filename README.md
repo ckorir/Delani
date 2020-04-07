@@ -20,4 +20,5 @@ https://ckorir.github.io/Delani/
 
 ## Contact Details
 Email:
-chrisruto@gmail.com
+chrisruto.k@gmail.com
+
